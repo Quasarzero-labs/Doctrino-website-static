@@ -85,7 +85,7 @@ export default function Coverage() {
             <div className="border-l-2 border-white pl-6">
               <h3 className="text-lg font-semibold mb-2">Sénégal — Phase pilote</h3>
               <p className="text-brand-gray-500 text-sm leading-relaxed">
-                Doctrino lance sa couverture nationale par le Sénégal : Code des obligations
+                doctrinoo lance sa couverture nationale par le Sénégal : Code des obligations
                 civiles et commerciales (COCC), jurisprudence de la Cour Suprême, textes
                 de l'OHADA appliqués localement. D'autres pays suivront progressivement.
               </p>

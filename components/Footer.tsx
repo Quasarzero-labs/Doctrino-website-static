@@ -8,7 +8,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <span className="font-semibold text-brand-black text-lg tracking-tight">Doctrino</span>
+              <span className="font-semibold text-brand-black text-lg tracking-tight">doctrinoo</span>
               <span className="text-[10px] font-medium text-brand-gray-400 uppercase tracking-widest border border-brand-gray-200 rounded px-1.5 py-0.5">
                 Bêta
               </span>
@@ -64,7 +64,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:team.analytics@quasarzero.fr?subject=Accès bêta Doctrino"
+                  href="mailto:team.analytics@quasarzero.fr?subject=Accès bêta doctrinoo"
                   className="text-sm text-brand-gray-500 hover:text-brand-black transition-colors"
                 >
                   Demander un accès bêta
@@ -96,7 +96,7 @@ export default function Footer() {
             © {year} Quasarzero Labs. Tous droits réservés.
           </p>
           <p className="text-xs text-brand-gray-400">
-            Doctrino est en phase bêta — données et fonctionnalités susceptibles d'évoluer.
+            doctrinoo est en phase bêta — données et fonctionnalités susceptibles d'évoluer.
           </p>
         </div>
       </div>

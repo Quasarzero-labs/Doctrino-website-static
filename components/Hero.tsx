@@ -17,7 +17,7 @@ export default function Hero() {
 
         {/* Subhead */}
         <p className="text-xl md:text-2xl text-brand-gray-500 font-light leading-relaxed max-w-2xl mb-12">
-          Doctrino centralise les textes, la jurisprudence et la doctrine du droit OHADA
+          doctrinoo centralise les textes, la jurisprudence et la doctrine du droit OHADA
           et des droits nationaux africains — en un seul endroit, consultable en secondes.
         </p>
 

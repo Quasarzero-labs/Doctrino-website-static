@@ -4,7 +4,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between h-16">
         <div className="flex items-center gap-2">
           <span className="text-brand-black font-semibold text-lg tracking-tighter">
-            Doctrino
+            doctrinoo
           </span>
           <span className="text-[10px] font-medium text-brand-gray-400 uppercase tracking-widest border border-brand-gray-200 rounded px-1.5 py-0.5">
             Bêta

@@ -77,7 +77,7 @@ export default function ProblemSolution() {
           {/* Solutions */}
           <div>
             <p className="text-xs font-semibold uppercase tracking-widest text-brand-gray-400 mb-8">
-              Avec Doctrino
+              Avec doctrinoo
             </p>
             <div className="space-y-8">
               {solutions.map((item) => (

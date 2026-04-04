@@ -46,7 +46,7 @@ export default function Features() {
             </h2>
           </div>
           <p className="text-brand-gray-500 text-sm max-w-xs leading-relaxed">
-            Doctrino est conçu pour les professionnels du droit qui ont besoin de fiabilité,
+            doctrinoo est conçu pour les professionnels du droit qui ont besoin de fiabilité,
             de rapidité et d'exhaustivité.
           </p>
         </div>

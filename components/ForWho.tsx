@@ -2,7 +2,7 @@ const profiles = [
   {
     title: 'Avocats & cabinets',
     description:
-      'Préparez vos dossiers avec des sources fiables et à jour. Citez les textes et décisions directement depuis Doctrino.',
+      'Préparez vos dossiers avec des sources fiables et à jour. Citez les textes et décisions directement depuis doctrinoo.',
     usecases: ['Recherche de jurisprudence', 'Veille législative', 'Rédaction de mémoires'],
   },
   {

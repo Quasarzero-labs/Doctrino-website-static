@@ -9,7 +9,7 @@ export default function CTA() {
           </div>
 
           <h2 className="text-4xl md:text-5xl font-semibold tracking-tightest text-brand-black leading-tight mb-6">
-            Rejoignez les premiers utilisateurs de Doctrino.
+            Rejoignez les premiers utilisateurs de doctrinoo.
           </h2>
 
           <p className="text-brand-gray-500 text-lg leading-relaxed mb-10">
@@ -19,7 +19,7 @@ export default function CTA() {
 
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
             <a
-              href="mailto:team.analytics@quasarzero.fr?subject=Accès bêta Doctrino"
+              href="mailto:team.analytics@quasarzero.fr?subject=Accès bêta doctrinoo"
               className="inline-flex items-center justify-center gap-2 bg-brand-black text-white text-sm font-medium px-6 py-3.5 rounded hover:bg-brand-gray-800 transition-colors"
             >
               Demander un accès bêta
