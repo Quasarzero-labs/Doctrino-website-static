@@ -27,7 +27,7 @@ export default function Hero() {
             href="https://app.doctrinoo.com"
             className="inline-flex items-center gap-2 bg-brand-black text-white text-sm font-medium px-6 py-3.5 rounded hover:bg-brand-gray-800 transition-colors"
           >
-            Accéder à la plateforme
+            Accéder gratuitement
             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
               <path
                 d="M3 8h10M9 4l4 4-4 4"
