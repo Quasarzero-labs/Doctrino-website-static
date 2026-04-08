@@ -24,7 +24,7 @@ export default function Hero() {
         {/* CTA */}
         <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
           <a
-            href="https://doctrino-front-end.vercel.app/login"
+            href="https://app.doctrinoo.com"
             className="inline-flex items-center gap-2 bg-brand-black text-white text-sm font-medium px-6 py-3.5 rounded hover:bg-brand-gray-800 transition-colors"
           >
             Accéder à la plateforme

@@ -27,7 +27,7 @@ export default function Navbar() {
         </nav>
 
         <a
-          href="https://doctrino-front-end.vercel.app/login"
+          href="https://app.doctrinoo.com"
           className="text-sm font-medium bg-brand-black text-white px-4 py-2 rounded hover:bg-brand-gray-800 transition-colors"
         >
           Accéder à la plateforme
